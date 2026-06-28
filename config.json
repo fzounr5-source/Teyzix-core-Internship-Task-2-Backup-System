@@ -1,0 +1,6 @@
+{
+    "backup_destination": "backups",
+    "max_versions": 5,
+    "log_file": "logs/backup_log.txt",
+    "schedule_interval_minutes": 60
+}

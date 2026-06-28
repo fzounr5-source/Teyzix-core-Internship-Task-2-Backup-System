@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+*.mp4
+backups/
+logs/
+main.py - Backup_System - Visual Studio Code 2026-06-28 02-59-26.mp4
